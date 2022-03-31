@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a-cole55
-- 👀 I’m interested in working out, reading, and exploring hiking trails. Oh yeah and my plant babies!
+- 👀 I’m interested in working out, reading, and exploring local hiking trails. Oh yeah and caring for my plant babies!
 - 🌱 I’m currently learning Javascript and Python.
 - 💞️ I’m looking to collaborate on any Javascript and/or Python projects.
 - 📫 How to reach me twitter: @ACole893
