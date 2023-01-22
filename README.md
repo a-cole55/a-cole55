@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/acole893" target="blank"><img src="https://img.shields.io/twitter/follow/acole893?logo=twitter&style=for-the-badge" alt="acole893" /></a> </p>
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning **React Native, Vue, and Craft**
 
 - 👨‍💻 All of my projects are available at [https://acolee.netlify.app/](https://acolee.netlify.app/)
 
