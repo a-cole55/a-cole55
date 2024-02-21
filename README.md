@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ar'Niqua</h1>
 <h3 align="center">A solution-driven fullstack developer from Texas</h3>
 
-<p align="left"> <a href="https://twitter.com/acole893" target="blank"><img src="https://img.shields.io/twitter/follow/acole893?logo=twitter&style=for-the-badge" alt="acole893" /></a> </p>
-
 - 🌱 I’m currently learning **Drupal**
 
 - 👨‍💻 All of my projects are available at [https://acolee.netlify.app/](https://acolee.netlify.app/)
